@@ -76,7 +76,8 @@
     "vue-router": "^3.4.3",
     "vue-slider-component": "^3.2.5",
     "vuex": "^3.4.0",
-    "x11": "^2.3.0"
+    "x11": "^2.3.0",
+    "@achrinza/node-ipc": "9.2.5"
   },
   "devDependencies": {
     "@types/node": "^17.0.0",
